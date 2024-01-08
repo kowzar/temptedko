@@ -1,5 +1,5 @@
 #' TEMPTED
-#' @name TEMPTED
+#' @name TEMPTED-PKG
 #' @docType package
 #' @description Package R file
 #' @importFrom stats  quantile lm qnorm reshape
