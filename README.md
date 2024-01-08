@@ -22,7 +22,7 @@ The statistical theories behind this method can be found in this paper:
 
 Han R, Shi P, Zhang AR. [Guaranteed Functional Tensor Singular Value
 Decomposition. Journal of the American Statistical Association (2023):
-1-13.](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2153689)
+1-13.]((https://doi.org/10.1080/01621459.2022.2153689)
 
 ### Load packages for this vignette
 
